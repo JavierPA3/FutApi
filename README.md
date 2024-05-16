@@ -13,6 +13,9 @@ Este proyecto se puede dividir en 2 partes:
 - El Frontend, el cual alberga toda la Interfaz Gráfica de Usuario en formato Web para hacer el proyecto más accesible para todo el público que desee utilizar nuestra aplicación. Desarrollado con el framework Angular, utiliza HTML, CSS y el lenguaje de programación TypeScript.
 
 
+
+
+
 ## Autores
 
 - [@Victor Fernández España](https://github.com/victorfernandezesp)
