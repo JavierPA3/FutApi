@@ -18,8 +18,12 @@ Para la instalación y acceso desde [http://localhost/] seguiremos los siguentes
 
 ### Requisitos de la instalación
 
-Instalación de Node versión:
-Instalación de Python versión:
+Instalación de Node versión: v20.11.0
+Instalación de Angular versión: 17.0.0
+Instalación de Python versión: v3.12
+Instalación de NPM versión: v10.2.4
+OS: win32 x64
+
 
 Puertos necesarios:
 
@@ -55,22 +59,22 @@ ng serve -o
 
 ## Documentación
 
-La documentación del proyecto reside en nuestra [Wiki]():
+La documentación del proyecto reside en nuestra [Wiki](https://github.com/victorfernandezesp/FutApi/wiki):
 
-- [Inicio]()
-- [Documentación del Proyecto]()
-  - [Introducción]()
-  - [Objetivos y requisitos del proyecto]()
-  - [Estudio previo]()
-  - [Plan de trabajo]()
+- [Inicio](https://github.com/victorfernandezesp/FutApi/wiki)
+- [Documentación del Proyecto](https://github.com/victorfernandezesp/FutApi/wiki/FutApiDoc)
+  - [Introducción](https://github.com/victorfernandezesp/FutApi/wiki/1_Introduccion)
+  - [Objetivos y requisitos del proyecto](https://github.com/victorfernandezesp/FutApi/wiki/2_Objetivos_Y_Requisitos)
+  - [Estudio previo](https://github.com/victorfernandezesp/FutApi/wiki/3_Estudio_Previo)
+  - [Plan de trabajo](https://github.com/victorfernandezesp/FutApi/wiki/4_Plan_De_Trabajo)
   - [Diseño]()
-  - [Implantación]()
-  - [Recursos]()
-  - [Conclusiones]()
-  - [Referencias / bibliografía]()
+  - [Implantación](https://github.com/victorfernandezesp/FutApi/wiki/6_Implantacion)
+  - [Recursos](https://github.com/victorfernandezesp/FutApi/wiki/7_Recursos)
+  - [Conclusiones](https://github.com/victorfernandezesp/FutApi/wiki/8_Conclusiones)
+  - [Referencias / bibliografía](https://github.com/victorfernandezesp/FutApi/wiki/9_Referencias_Bibliografia)
   - [Anexos]()
-- [Manual de Despliegue]()
-- [Manual de Usuario]()
+- [Manual de Despliegue](https://github.com/victorfernandezesp/FutApi/wiki/Manual_Despliegue)
+- [Manual de Usuario](https://github.com/victorfernandezesp/FutApi/wiki/Manual_Usuario)
 
 ## Autores
 
