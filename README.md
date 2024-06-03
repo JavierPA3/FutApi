@@ -67,7 +67,7 @@ La documentación del proyecto reside en nuestra [Wiki](https://github.com/victo
   - [Objetivos y requisitos del proyecto](https://github.com/victorfernandezesp/FutApi/wiki/2_Objetivos_Y_Requisitos)
   - [Estudio previo](https://github.com/victorfernandezesp/FutApi/wiki/3_Estudio_Previo)
   - [Plan de trabajo](https://github.com/victorfernandezesp/FutApi/wiki/4_Plan_De_Trabajo)
-  - [Diseño]()
+  - [Diseño](https://github.com/victorfernandezesp/FutApi/wiki/5_Diseno)
   - [Implantación](https://github.com/victorfernandezesp/FutApi/wiki/6_Implantacion)
   - [Recursos](https://github.com/victorfernandezesp/FutApi/wiki/7_Recursos)
   - [Conclusiones](https://github.com/victorfernandezesp/FutApi/wiki/8_Conclusiones)
