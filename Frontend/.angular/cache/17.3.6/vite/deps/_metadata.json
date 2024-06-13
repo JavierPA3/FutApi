@@ -1,0 +1,67 @@
+{
+  "hash": "7bc30096",
+  "configHash": "3837ff0e",
+  "lockfileHash": "0271ec2a",
+  "browserHash": "1c6789ab",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "260e1f02",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "60691fbe",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "8eb48c5a",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "2228ecc1",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "05b3e1a6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "06ecf7ae",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "c8d685df",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-G3CAMNV2": {
+      "file": "chunk-G3CAMNV2.js"
+    },
+    "chunk-JGZPNO5Q": {
+      "file": "chunk-JGZPNO5Q.js"
+    },
+    "browser-O6IH6QZO": {
+      "file": "browser-O6IH6QZO.js"
+    },
+    "chunk-CLFKRVZH": {
+      "file": "chunk-CLFKRVZH.js"
+    },
+    "chunk-XHMXEJF3": {
+      "file": "chunk-XHMXEJF3.js"
+    }
+  }
+}
