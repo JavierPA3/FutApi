@@ -33,6 +33,8 @@ Puertos necesarios:
 
 ### Instalación y despliegue
 
+- En local si se quiere probar:
+
 * Backend: Para el backend primero se tendrá que descargar las siguientes librerias con los siguientes comandos:
 
 ```bash
